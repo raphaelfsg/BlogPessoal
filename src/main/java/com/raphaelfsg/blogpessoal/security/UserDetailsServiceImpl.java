@@ -1,7 +1,7 @@
-package com.example.blogpessoal.security;
+package com.raphaelfsg.blogpessoal.security;
 
-import com.example.blogpessoal.model.Usuario;
-import com.example.blogpessoal.repository.UsuarioRepository;
+import com.raphaelfsg.blogpessoal.model.Usuario;
+import com.raphaelfsg.blogpessoal.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.userdetails.UserDetails;

@@ -1,7 +1,7 @@
-package com.example.blogpessoal.controller;
+package com.raphaelfsg.blogpessoal.controller;
 
-import com.example.blogpessoal.model.Tema;
-import com.example.blogpessoal.repository.TemaRepository;
+import com.raphaelfsg.blogpessoal.model.Tema;
+import com.raphaelfsg.blogpessoal.repository.TemaRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

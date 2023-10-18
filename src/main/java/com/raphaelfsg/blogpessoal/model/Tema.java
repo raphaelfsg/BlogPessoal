@@ -1,4 +1,4 @@
-package com.example.blogpessoal.model;
+package com.raphaelfsg.blogpessoal.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.*;

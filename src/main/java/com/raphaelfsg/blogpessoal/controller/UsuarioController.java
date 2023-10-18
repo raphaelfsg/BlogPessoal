@@ -1,9 +1,9 @@
-package com.example.blogpessoal.controller;
+package com.raphaelfsg.blogpessoal.controller;
 
-import com.example.blogpessoal.model.Usuario;
-import com.example.blogpessoal.model.UsuarioLogin;
-import com.example.blogpessoal.repository.UsuarioRepository;
-import com.example.blogpessoal.service.UsuarioService;
+import com.raphaelfsg.blogpessoal.model.Usuario;
+import com.raphaelfsg.blogpessoal.model.UsuarioLogin;
+import com.raphaelfsg.blogpessoal.repository.UsuarioRepository;
+import com.raphaelfsg.blogpessoal.service.UsuarioService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
